@@ -183,7 +183,7 @@ if (!m.isGroup) return m.reply(info.group)
 if (!isGroupAdmins) return m.reply(info.admin)
 const pesan = args.join` `;
 const oi = `${lenguaje.grupos.text21} ${pesan}`;
-let teks = `❑ ━〔 *📢 ＩＮＶＯＣＡＣＩＯＮ 📢* 〕━ ❑\n\n`
+let teks = `❑ ━〔 *📢 M E N T I O N 📢* 〕━ ❑\n\n`
 teks += `${oi}\n\n`
 for (let mem of participants) {
 teks += `➥ @${mem.id.split('@')[0]}\n`
