@@ -87,11 +87,11 @@ text6: `MENSAJE:` }
 
 //autobio
 const Bio = { 
-text: `✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨- ᴛᴇɴɢᴏ:`, 
+text: `✨ 𝑏𝑙𝑎𝑐𝑘-𝐁𝐎𝐓 ✨- ᴛᴇɴɢᴏ:`, 
 text2: `ᴜsᴜᴀʀɪᴏs ᴜsᴀᴅᴏʀᴍᴇ ᴘᴜᴇᴅᴏ ʀᴇsᴘᴏɴᴅᴇ ʟᴇɴᴛᴀ ᴍɪ ᴠᴇʟᴏᴄɪᴅᴀᴅ ᴅᴇ ʀᴇsᴘᴜᴇsᴛᴀ ᴇs:`,
-text3: `✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨ | ᴀᴄᴛɪᴠᴏ ✅️:`, 
+text3: `✨ 𝑏𝑙𝑎𝑐𝑘-𝐁𝐎𝐓 ✨ | ᴀᴄᴛɪᴠᴏ ✅️:`, 
 text4: `ᴘᴀʀᴀ ᴠᴇᴢ ᴍɪ ʟɪsᴛᴀ ᴅᴇ ᴄᴏᴍᴀɴᴅᴏ ᴜsᴀʀ #menu`, 
-text5: `✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨ - sᴜʙsᴄʀɪʙɪʀᴛᴇ ᴇʟ ɴᴜᴇsᴛʀᴏ ᴄᴀɴᴀʟ ᴅᴇʟ ʏᴏᴜᴛᴜʙᴇ 🔔\nhttps://www.youtube.com/@Eliasar_yt`, 
+text5: `✨ 𝑏𝑙𝑎𝑐𝑘-𝐁𝐎𝐓 ✨ - sᴜʙsᴄʀɪʙɪʀᴛᴇ ᴇʟ ɴᴜᴇsᴛʀᴏ ᴄᴀɴᴀʟ ᴅᴇʟ ʏᴏᴜᴛᴜʙᴇ 🔔\nhttps://www.youtube.com/@Eliasar_yt`, 
 text6: `✅ Actividad:`, 
 text7: `👥 Usuarios:` }
 
