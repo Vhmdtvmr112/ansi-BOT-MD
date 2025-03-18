@@ -418,7 +418,7 @@ if (!methodCodeQR && !methodCode && !fs.existsSync(`./sessions/creds.json`)) {
                         let vcard = `BEGIN:VCARD\nVERSION:3.0\nN:; Eliasar YT👑;;;\nFN: Eliasar YT\nORG: Eliasar YT👑\nTITLE:\nitem1.TEL;waid=50582340051:+50582340051\nitem1.X-ABLabel:Propietario 👑\nX-WA-BIZ-DESCRIPTION:ᴇsᴄʀɪʙɪ sᴏʟᴏ ᴘᴏʀ ᴄᴏsᴀs ᴅᴇʟ ʙᴏᴛ.\nX-WA-BIZ-NAME:Owner 👑\nEND:VCARD`
                         sock.sendMessage(fucker.from, {
                             contacts: {
-                                displayName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨',
+                                displayName: '✨ 𝑏𝑙𝑎𝑐𝑘-𝐁𝐎𝐓 ✨',
                                 contacts: [{
                                     vcard
                                 }]
