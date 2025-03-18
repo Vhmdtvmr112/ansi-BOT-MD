@@ -368,8 +368,8 @@ let canalId = [
 "120363296103096943@newsletter"
 ];
 let canalNombre = [
-"✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨",
-"✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
+"✨ 𝑏𝑙𝑎𝑐𝑘-𝐁𝐎𝐓 ✨",
+"✨ 𝑏𝑙𝑎𝑐𝑘-𝐁𝐎𝐓 ✨"
 ];
 
 async function getRandomChannel() {
@@ -511,7 +511,7 @@ if (new Date() * 1 - setting.status > 1000) {
 let uptime = await runtime(process.uptime())
 var timestamp = speed();   
 var latensi = speed() - timestamp 
-let text = [`${lenguaje.Bio.text} ${Object.keys(global.db.data.users).length} ${lenguaje.Bio.text2} ${latensi.toFixed(4)} 🚀`, `${lenguaje.Bio.text3} ${runtime(process.uptime())}\n\n${lenguaje.Bio.text4}`, `${lenguaje.Bio.text5}`, `✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨ uso: ${conn.public ? 'Publico' : 'Privado'} | ${lenguaje.Bio.text6} ${runtime(process.uptime())} | ${lenguaje.Bio.text7} ${Object.keys(global.db.data.users).length} crador Eliasar YT`]
+let text = [`${lenguaje.Bio.text} ${Object.keys(global.db.data.users).length} ${lenguaje.Bio.text2} ${latensi.toFixed(4)} 🚀`, `${lenguaje.Bio.text3} ${runtime(process.uptime())}\n\n${lenguaje.Bio.text4}`, `${lenguaje.Bio.text5}`, `✨ 𝑏𝑙𝑎𝑐𝑘-𝐁𝐎𝐓 ✨ uso: ${conn.public ? 'Publico' : 'Privado'} | ${lenguaje.Bio.text6} ${runtime(process.uptime())} | ${lenguaje.Bio.text7} ${Object.keys(global.db.data.users).length} crador Eliasar YT`]
 let bio = text[Math.floor(Math.random() * text.length)]
 try {
 await conn.updateProfileStatus(bio)
