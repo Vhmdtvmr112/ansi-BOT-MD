@@ -1157,7 +1157,7 @@ forwardingScore: 1,
 isForwarded: true,
 forwardedNewsletterMessageInfo: {
 newsletterJid: '120363296103096943@newsletter',
-newsletterName: '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨',
+newsletterName: '✨ 𝑏𝑙𝑎𝑐𝑘-𝐁𝐎𝐓 ✨',
 serverMessageId: ''
 }
 }
