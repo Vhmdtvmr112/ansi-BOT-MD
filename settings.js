@@ -155,8 +155,8 @@ global.nn6 = 'https://chat.whatsapp.com/GI6EfsV1zIMHryC6m0yyX4'
 global.nn7 = 'https://chat.whatsapp.com/GI6EfsV1zIMHryC6m0yyX4'
 global.nn8 = 'https://chat.whatsapp.com/GI6EfsV1zIMHryC6m0yyX4'
 global.multi = 'https://chat.whatsapp.com/GI6EfsV1zIMHryC6m0yyX4'
-global.nna2 = 'https://whatsapp.com/channel/0029VadxAUkKLaHjPfS1vP36'
-global.n2 = 'https://whatsapp.com/channel/0029VadxAUkKLaHjPfS1vP36'
+global.nna2 = 'https://whatsapp.com/channel/0029Vb8LjDzKQuJBij7Wfo3a'
+global.n2 = 'https://whatsapp.com/channel/0029Vb8LjDzKQuJBij7Wfo3a'
 //---------[ INFO ]--------- 
 global.info = {
     wait: '*_■■□□□40%_*',
