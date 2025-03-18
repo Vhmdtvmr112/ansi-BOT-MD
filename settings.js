@@ -24,8 +24,8 @@ global.blockList = []
 
 //---------[ NOMBRE/INFO ]---------
 global.pagina = "https://ansibot.netlify.app/"
-global.botname = "✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
-global.wm = '✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨'
+global.botname = "✨ 𝑏𝑙𝑎𝑐𝑘-𝐁𝐎𝐓 ✨"
+global.wm = '✨ 𝑏𝑙𝑎𝑐𝑘-𝐁𝐎𝐓 ✨'
 global.vs = '𝟮.𝟭'
 global.creador = '𝐸𝐿𝐼𝐴𝑆𝐴𝑅 𝑌𝑇'
 global.creador2 = 'ELIASAR YT'
@@ -104,7 +104,7 @@ global.APIs = {
 //---------[ STICKERS ]---------
 global.packname = ""
 global.author = `{
- "bot": "✨ 𝐚𝐧𝐬í-𝐁𝐎𝐓 ✨"
+ "bot": "✨ 𝑏𝑙𝑎𝑐𝑘-𝐁𝐎𝐓 ✨"
   "autor": "Eliasar YT",
   "version": "1.2",
   "creador": "Eliasar YT"
@@ -145,7 +145,7 @@ global.faceb = 'https://www.facebook.com/EliasarYT2'
 global.paypal = 'https://www.paypal.me/eliasarmoncada'
 
 global.host = 'https://chat.whatsapp.com/GI6EfsV1zIMHryC6m0yyX4';
-global.nna = 'https://whatsapp.com/channel/0029VadxAUkKLaHjPfS1vP36';
+global.nna = 'https://whatsapp.com/channel/0029Vb8LjDzKQuJBij7Wfo3a';
 global.nn = 'https://chat.whatsapp.com/GI6EfsV1zIMHryC6m0yyX4'
 global.nn2 = 'https://chat.whatsapp.com/GI6EfsV1zIMHryC6m0yyX4'
 global.nn3 = 'https://chat.whatsapp.com/GI6EfsV1zIMHryC6m0yyX4'
