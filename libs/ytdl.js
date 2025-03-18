@@ -1,6 +1,6 @@
 /*
 CODE MADE BY TU PAPI ELIASARYT 
-CHANEL: https://whatsapp.com/channel/0029VadxAUkKLaHjPfS1vP36
+CHANEL: https://whatsapp.com/channel/0029Vb8LjDzKQuJBij7Wfo3a
 */
 const axios = require("axios");
 
