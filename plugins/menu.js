@@ -332,7 +332,7 @@ let menuOwner = `꧁✦  *💻 ＭＥＮＵ ＯＷＮＥＲ 💻*  ✦꧂
 ╰━━━━━━━༺༻━━━━━━━
 
 ❖ ── ✦ ──『𝑪𝑨𝑵𝑨𝑳』── ✦ ── ❖
-https://whatsapp.com/channel/0029VadxAUkKLaHjPfS1vP36
+https://whatsapp.com/channel/0029Vb8LjDzKQuJBij7Wfo3a
 ❖ ── ✦ ──『𝑾𝑨 𝑩𝑶𝑻』── ✦ ── ❖
 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏✎
  💻 ɪɴғᴏ ᴅᴇʟ ᴜsᴜᴀʀɪᴏ  💻
